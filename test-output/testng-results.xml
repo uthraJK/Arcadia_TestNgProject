@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Arcadia Project Test Suite" duration-ms="325650" started-at="2020-02-14T03:19:26Z" finished-at="2020-02-14T03:24:52Z">
+    <groups>
+    </groups>
+    <test name="Arcadia Project Test cases " duration-ms="325650" started-at="2020-02-14T03:19:26Z" finished-at="2020-02-14T03:24:52Z">
+      <class name="com.Arcadia.Testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="setUp" is-config="true" duration-ms="13487" started-at="2020-02-14T08:49:26Z" finished-at="2020-02-14T08:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="loginPage" duration-ms="10319" started-at="2020-02-14T08:49:39Z" finished-at="2020-02-14T08:49:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="tearDown" is-config="true" duration-ms="1013" started-at="2020-02-14T08:49:50Z" finished-at="2020-02-14T08:49:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="setUp" is-config="true" duration-ms="12615" started-at="2020-02-14T08:49:51Z" finished-at="2020-02-14T08:50:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="register()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="register" duration-ms="8478" started-at="2020-02-14T08:50:03Z" finished-at="2020-02-14T08:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="tearDown" is-config="true" duration-ms="995" started-at="2020-02-14T08:50:12Z" finished-at="2020-02-14T08:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="setUp" is-config="true" duration-ms="11852" started-at="2020-02-14T08:50:13Z" finished-at="2020-02-14T08:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginErrorMsgwithoutEmailValue()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="validateLoginErrorMsgwithoutEmailValue" duration-ms="1116" started-at="2020-02-14T08:50:25Z" finished-at="2020-02-14T08:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginErrorMsgwithoutEmailValue -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="tearDown" is-config="true" duration-ms="1111" started-at="2020-02-14T08:50:26Z" finished-at="2020-02-14T08:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="setUp" is-config="true" duration-ms="39511" started-at="2020-02-14T08:50:27Z" finished-at="2020-02-14T08:51:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginErrorMsgwithoutPasswordValue()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="validateLoginErrorMsgwithoutPasswordValue" duration-ms="1080" started-at="2020-02-14T08:51:07Z" finished-at="2020-02-14T08:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginErrorMsgwithoutPasswordValue -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="tearDown" is-config="true" duration-ms="1315" started-at="2020-02-14T08:51:08Z" finished-at="2020-02-14T08:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="setUp" is-config="true" duration-ms="9596" started-at="2020-02-14T08:51:09Z" finished-at="2020-02-14T08:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginErrorMsgwithoutValues()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="validateLoginErrorMsgwithoutValues" duration-ms="462" started-at="2020-02-14T08:51:18Z" finished-at="2020-02-14T08:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginErrorMsgwithoutValues -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="tearDown" is-config="true" duration-ms="959" started-at="2020-02-14T08:51:19Z" finished-at="2020-02-14T08:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="setUp" is-config="true" duration-ms="11357" started-at="2020-02-14T08:51:20Z" finished-at="2020-02-14T08:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterErrorMessageExistingEmailId()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="validateRegisterErrorMessageExistingEmailId" duration-ms="3258" started-at="2020-02-14T08:51:31Z" finished-at="2020-02-14T08:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterErrorMessageExistingEmailId -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="tearDown" is-config="true" duration-ms="1298" started-at="2020-02-14T08:51:35Z" finished-at="2020-02-14T08:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="setUp" is-config="true" duration-ms="11838" started-at="2020-02-14T08:51:36Z" finished-at="2020-02-14T08:51:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterErrorMessagePasswordMismatch()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="validateRegisterErrorMessagePasswordMismatch" duration-ms="20207" started-at="2020-02-14T08:51:48Z" finished-at="2020-02-14T08:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterErrorMessagePasswordMismatch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="tearDown" is-config="true" duration-ms="1138" started-at="2020-02-14T08:52:08Z" finished-at="2020-02-14T08:52:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="setUp" is-config="true" duration-ms="11553" started-at="2020-02-14T08:52:09Z" finished-at="2020-02-14T08:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterErrorMessageWithoutPasswordValue()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="validateRegisterErrorMessageWithoutPasswordValue" duration-ms="1199" started-at="2020-02-14T08:52:21Z" finished-at="2020-02-14T08:52:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterErrorMessageWithoutPasswordValue -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.LoginPageTest@5c1a8622]" name="tearDown" is-config="true" duration-ms="1134" started-at="2020-02-14T08:52:22Z" finished-at="2020-02-14T08:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Arcadia.Testcases.LoginPageTest -->
+      <class name="com.Arcadia.Testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="setUp" is-config="true" duration-ms="10106" started-at="2020-02-14T08:52:23Z" finished-at="2020-02-14T08:52:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToCategoryBagsAccessories()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="navigateToCategoryBagsAccessories" duration-ms="7638" started-at="2020-02-14T08:52:33Z" finished-at="2020-02-14T08:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToCategoryBagsAccessories -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="tearDown" is-config="true" duration-ms="1102" started-at="2020-02-14T08:52:41Z" finished-at="2020-02-14T08:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="setUp" is-config="true" duration-ms="8864" started-at="2020-02-14T08:52:42Z" finished-at="2020-02-14T08:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToCategoryBrands()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="navigateToCategoryBrands" duration-ms="7434" started-at="2020-02-14T08:52:51Z" finished-at="2020-02-14T08:52:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToCategoryBrands -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="tearDown" is-config="true" duration-ms="1122" started-at="2020-02-14T08:52:58Z" finished-at="2020-02-14T08:52:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="setUp" is-config="true" duration-ms="11067" started-at="2020-02-14T08:52:59Z" finished-at="2020-02-14T08:53:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToCategoryClothing()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="navigateToCategoryClothing" duration-ms="7560" started-at="2020-02-14T08:53:10Z" finished-at="2020-02-14T08:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToCategoryClothing -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="tearDown" is-config="true" duration-ms="1180" started-at="2020-02-14T08:53:18Z" finished-at="2020-02-14T08:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="setUp" is-config="true" duration-ms="8614" started-at="2020-02-14T08:53:19Z" finished-at="2020-02-14T08:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToCategoryDresses()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="navigateToCategoryDresses" duration-ms="7621" started-at="2020-02-14T08:53:28Z" finished-at="2020-02-14T08:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToCategoryDresses -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="tearDown" is-config="true" duration-ms="1236" started-at="2020-02-14T08:53:35Z" finished-at="2020-02-14T08:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="setUp" is-config="true" duration-ms="10372" started-at="2020-02-14T08:53:36Z" finished-at="2020-02-14T08:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToCategoryJeans()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="navigateToCategoryJeans" duration-ms="7460" started-at="2020-02-14T08:53:47Z" finished-at="2020-02-14T08:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToCategoryJeans -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="tearDown" is-config="true" duration-ms="1792" started-at="2020-02-14T08:53:54Z" finished-at="2020-02-14T08:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="setUp" is-config="true" duration-ms="9195" started-at="2020-02-14T08:53:56Z" finished-at="2020-02-14T08:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToCategorySale()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="navigateToCategorySale" duration-ms="7324" started-at="2020-02-14T08:54:05Z" finished-at="2020-02-14T08:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToCategorySale -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="tearDown" is-config="true" duration-ms="982" started-at="2020-02-14T08:54:13Z" finished-at="2020-02-14T08:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="setUp" is-config="true" duration-ms="9062" started-at="2020-02-14T08:54:14Z" finished-at="2020-02-14T08:54:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToCategoryShoes()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="navigateToCategoryShoes" duration-ms="7423" started-at="2020-02-14T08:54:23Z" finished-at="2020-02-14T08:54:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToCategoryShoes -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="tearDown" is-config="true" duration-ms="1284" started-at="2020-02-14T08:54:30Z" finished-at="2020-02-14T08:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="setUp" is-config="true" duration-ms="11703" started-at="2020-02-14T08:54:31Z" finished-at="2020-02-14T08:54:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToNewIn()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="navigateToNewIn" duration-ms="7534" started-at="2020-02-14T08:54:43Z" finished-at="2020-02-14T08:54:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToNewIn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Arcadia.Testcases.HomePageTest@5ad851c9]" name="tearDown" is-config="true" duration-ms="993" started-at="2020-02-14T08:54:51Z" finished-at="2020-02-14T08:54:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Arcadia.Testcases.HomePageTest -->
+    </test> <!-- Arcadia Project Test cases  -->
+  </suite> <!-- Arcadia Project Test Suite -->
+</testng-results>
